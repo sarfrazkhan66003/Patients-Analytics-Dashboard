@@ -28,6 +28,7 @@ The dataset includes anonymized patient records with key attributes such as:
 
 💰 Billing Information
 
+
 🚧 Key Challenges & Solutions
 
 1️⃣ Data Cleaning & Preprocessing
@@ -74,9 +75,6 @@ The dataset includes anonymized patient records with key attributes such as:
 
 📥 Download and Install Power BI Desktop from Microsoft Power BI.
 
-📌 Clone this repository:
-
-git clone https://github.com/yourusername/PatientsAnalyticsProject.git
 
 📂 Open the .pbix file in Power BI Desktop.
 
